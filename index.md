@@ -2,8 +2,9 @@
 layout: default
 ---
 
-Experienced software engineer working primarily on backend services and
-infrastructure in Ruby/Rails, Java, Go, and NestJS on AWS.
+Polyglot engineer. I build the services, data, and infrastructure behind
+products - clear code, systems that hold up, and things left better than I
+found them.
 
 ## Resume
 
