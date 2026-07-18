@@ -1,0 +1,13 @@
+title: Krishna Tippur
+description: Experienced Software Engineer
+theme: jekyll-theme-hacker
+
+author:
+  name: Krishna Tippur
+  email: krishnatg@gmail.com
+
+github_username: krishnatippur
+linkedin_username: krishna-tippur-gururaj
+
+# Hide the theme's default GitHub download buttons
+show_downloads: false
